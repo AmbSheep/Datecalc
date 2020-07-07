@@ -1,4 +1,4 @@
 Date calculator. 
 Works from console and takes two arguments: date and days to add.
-Example: python3 datecalc.py 07.07.2020 26
+Example: python3 datecalc.py 07-07-2020 26
 Output: 02-08-2020
